@@ -1,5 +1,5 @@
 # React + Vite
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09161acf-b569-4a43-8402-23e377caf7ee/deploy-status)](https://app.netlify.com/sites/flappybirdgame2025/deploys)
 My first game , flappy bird a simple yet interactive game ,
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
